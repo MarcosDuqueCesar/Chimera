@@ -1,4 +1,7 @@
-Chimera
+Eustathios Chimera
 =======
 
-3D printer base in Ingentis/Eustathios
+
+Eric Lien;
+Jason Smith;
+Tim Rastall
